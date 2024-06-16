@@ -118,36 +118,36 @@ const questions = [
         question: 'What is my favorite color?',
         answers: [
             {text: 'Red', correct: false},
-            {text: 'Purple', correct: true},
+            {text: 'Blue', correct: true},
             {text: 'Green', correct: false},
             {text: 'Orange', correct: false}
         ]
     },
     {
-        question: 'What is the best day in the gym?',
+        question: 'what is my favorite food taste?',
         answers: [
-            {text: 'Legs', correct: true},
-            {text: 'Arms', correct: false},
-            {text: 'Back', correct: false},
-            {text: 'Chest', correct: false}
+            {text: 'Spicy', correct: true},
+            {text: 'Salty', correct: false},
+            {text: 'Sour', correct: false},
+            {text: 'Sweet', correct: false}
         ]
     },
     {
-        question: 'What is my favorite TV show?',
+        question: 'What is my favorite Movie Genre?',
         answers: [
-            {text: 'Attack on Titan', correct: false},
-            {text: 'Impractical Jokers', correct: false},
-            {text: 'Breaking Bad', correct: true},
-            {text: 'The Office', correct: false}
+            {text: 'Sci-fi', correct: false},
+            {text: 'crime', correct: false},
+            {text: 'Horror', correct: true},
+            {text: 'Comedy', correct: false}
         ]
     },
     {
-        question: 'What is our anniversary?',
+        question: 'What is my favorite sport ?',
         answers: [
-            {text: 'September 27th', correct: false},
-            {text: 'September 23rd', correct: false},
-            {text: 'September 11th', correct: false},
-            {text: 'September 25th', correct: true}
+            {text: 'Swim', correct: false},
+            {text: 'run', correct: false},
+            {text: 'Weightlifting', correct: true},
+            {text: 'Yoga', correct: false}
         ]
     },
     {
